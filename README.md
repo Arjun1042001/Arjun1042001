@@ -5,6 +5,8 @@
 
 DevOps portfolio focused on AWS, CI/CD automation, Kubernetes and GitOps. I bring the same work ethic from agricultural field work to the cloud: show up, learn fast, and finish what I start.
 
+Currently deepening my AWS skills (Solutions Architect Associate studies) and Terraform.
+
 ## Skills
 AWS (EC2, S3, EKS, VPC, IAM) • CI/CD • GitHub Actions • GitLab CI/CD • Docker • Kubernetes • Helm • Argo CD • GitOps • Terraform • OpenTelemetry • Prometheus • Grafana • Jaeger • Linux • Git • Nginx
 
